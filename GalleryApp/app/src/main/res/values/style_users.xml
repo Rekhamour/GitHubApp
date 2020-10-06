@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="UserList">
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:clipToPadding">false</item>
+    </style>
+
+    <!--region News Article -->
+    <style name="User" />
+    <style name="UserDetail" />
+
+    <style name="User.View">
+        <item name="android:layout_marginTop">@dimen/normal_padding</item>
+        <item name="android:layout_marginStart">@dimen/card_margin</item>
+        <item name="android:layout_marginEnd">@dimen/card_margin</item>
+        <item name="android:layout_marginBottom">@dimen/card_elevation</item>
+    </style>
+    <style name="UserDetail.View">
+        <item name="android:layout_marginBottom">@dimen/card_elevation</item>
+    </style>
+
+    <style name="User.Title">
+        <item name="android:maxLines">2</item>
+        <item name="android:padding">@dimen/normal_padding</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">@dimen/textview_size_normal</item>
+    </style>
+    <style name="UserDetail.FollowersUrl">
+        <item name="android:maxLines">2</item>
+        <item name="android:padding">@dimen/normal_padding</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">@dimen/textview_size_normal</item>
+    </style>
+
+    <style name="User.Image">
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:layout_margin">@dimen/image_margin</item>
+    </style>
+
+    <style name="User.Author">
+        <item name="android:maxLines">2</item>
+        <item name="android:textColor">@color/dark_grey</item>
+        <item name="android:textSize">@dimen/textview_size_large</item>
+    </style>
+
+    <style name="User.tvStarsUrl">
+        <item name="android:layout_marginBottom">@dimen/normal_padding</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/stars_color</item>
+        <item name="android:textSize">@dimen/textview_size_small</item>
+    </style>
+    <!--endregion-->
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand color -->
+    <color name="colorPrimary">#090909</color>
+    <color name="colorPrimaryDark">#090909</color>
+    <color name="colorAccent">#FFC039</color>
+    <color name="stars_color">#00D4D4</color>
+    <color name="tv_author_color">#3E4040</color>
+    <color name="dark_grey">#787C7C</color>
+
+    <!-- Other colors -->
+    <color name="color_transparent">#33000000</color>
+    <color name="grey">#F3F1F1</color>
+</resources>

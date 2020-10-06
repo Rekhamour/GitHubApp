@@ -1,0 +1,20 @@
+<resources>
+    <!-- App details -->
+    <string name="app_name">Github Users App</string>
+
+    <!-- menu-->
+    <string name="toggleGrid">Change to Grid</string>
+    <string name="toggleList">Change to List</string>
+
+    <!-- fragment tag -->
+    <string name="list_fragment_tag">list fragment</string>
+    <string name="detail_fragment_tag">Change to List</string>
+
+    <!-- Content Description -->
+    <string name="user_image_desc">User Image</string>
+    <string name="user_image">User image</string>
+    <string name="str_test_date">22/02/2017</string>
+
+    <!-- Empty -->
+    <string name="no_users">No Users</string>
+</resources>
